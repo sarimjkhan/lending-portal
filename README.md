@@ -1,4 +1,4 @@
-# Bees and Bears hiring tasks
+# Lending Portal
 
 This is the repository for technical hiring tasks as Bees and Bears. Please navigate to the sub directory of the relevant job for which you are applying and you will see the task description in the README as well as any relevant supplementary files or artefacts.
 
